@@ -1,0 +1,18 @@
+{
+  "groups": [
+    {
+      "name": "animal",
+      "type": "com.HelloProperties",
+      "sourceType": "com.HelloProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "animal.name",
+      "type": "java.lang.String",
+      "sourceType": "com.HelloProperties",
+      "defaultValue": "数码暴龙"
+    }
+  ],
+  "hints": []
+}
